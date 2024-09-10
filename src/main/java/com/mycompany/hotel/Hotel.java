@@ -11,6 +11,6 @@ package com.mycompany.hotel;
 public class Hotel {
 
     public static void main(String[] args) {
-        System.out.println("La bica da poder");
+        System.out.println("Sotelo es tremendo ponderador");
     }
 }
