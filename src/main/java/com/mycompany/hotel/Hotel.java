@@ -11,6 +11,6 @@ package com.mycompany.hotel;
 public class Hotel {
 
     public static void main(String[] args) {
-        System.out.println("primero commit y luego push stream");
+        System.out.println("Riqui-points = futuro");
     }
 }
