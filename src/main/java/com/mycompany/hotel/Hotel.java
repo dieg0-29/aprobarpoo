@@ -4,5 +4,6 @@ public class Hotel {
         System.out.println("al delegado lo aprobaron y lo probaron");
         System.out.println("la fè me aprobara");
         System.out.println("Enfrien a Alcantara");
+        System.out.println(":D");
     }
 }
