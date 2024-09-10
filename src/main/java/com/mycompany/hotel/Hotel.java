@@ -3,6 +3,6 @@ public class Hotel {
     public static void main(String[] args) {
         System.out.println("al delegado lo aprobaron y lo probaron");
         System.out.println("la fè me aprobara");
-        System.out.println("el primer ciclo se aprende el segundo se pasa :)");
+        System.out.println("Enfrien a Alcantara");
     }
 }
