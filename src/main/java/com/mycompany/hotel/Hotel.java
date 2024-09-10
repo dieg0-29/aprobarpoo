@@ -11,6 +11,6 @@ package com.mycompany.hotel;
 public class Hotel {
 
     public static void main(String[] args) {
-        System.out.println("Riqui-points = futuro");
+        System.out.println("cada vez los kchimbos son mas hambrientos");
     }
 }
